@@ -1,5 +1,7 @@
 # RubieDrive
-![Create Date](https://img.shields.io/github/created-at/RubieLabs/RubieDrive)
-![GitHub last commit](https://img.shields.io/github/last-commit/RubieLabs/RubieDrive)
+![Downloads](https://img.shields.io/github/downloads/RubieLabs/RubieDrive/total)
+![GitHub Release](https://img.shields.io/github/v/release/RubieLabs/RubieDrive)
+![GitHub Repo stars](https://img.shields.io/github/stars/RubieLabs/RubieDrive)
+![GitHub forks](https://img.shields.io/github/forks/RubieLabs/RubieDrive)
 <br/>
 The best disk management Windows app. STILL IN DEVELOPMENT
