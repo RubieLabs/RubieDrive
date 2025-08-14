@@ -4,4 +4,4 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/RubieLabs/RubieDrive)
 ![GitHub forks](https://img.shields.io/github/forks/RubieLabs/RubieDrive)
 <br/>
-The best disk management Windows app. STILL IN DEVELOPMENT
+The best disk management app. STILL IN DEVELOPMENT
